@@ -92,6 +92,6 @@
   },
   "openapi": {
     "spec": "./api-reference/openapi.json",
-    "output": "reference"
+    "output": "api-reference"
   }
 }
